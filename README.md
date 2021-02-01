@@ -37,23 +37,43 @@ ERROR FILES:
 ERROR VALUE MEANINGS:
 
 Error 1, Period expected
+
 Error 2, const, var or procedure must be followed by identifier
+
 Error 3, double declaration within the same scope and level is not allowed
+
 Error 4, constant identifier must be followed by =
+
 Error 5, = must be followed by a number
+
 Error 6, Semicolon or comma missing
+
 Error 7, undeclared identifier
+
 Error 8, assignment to constant or procedure is not allowed
+
 Error 9, assignment operator expected
+
 Error 10, end expected
+
 Error 11, then expected
+
 Error 12, do expected
+
 Error 13, read must be followed by variable type identifier
+
 Error 14, call sym must be followed by a proc identifier
+
 Error 15, Relational operator expected
+
 Error 16, Right parenthesis missing
+
 Error 17, identifier, number or ( expected in factor
+
 Error 18, used = instead of :=
+
 Error 19, There should be nothing after period
+
 Error 20, identifier expected after call
+
 Error 21, use of procedure identifier in factor
