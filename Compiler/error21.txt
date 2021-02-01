@@ -1,0 +1,12 @@
+const x = 1;
+var b;
+procedure a;
+	var c;
+	begin
+		read c;
+		c := x + a;
+	end;
+begin
+	read b;
+	call a;
+end.
