@@ -1,5 +1,6 @@
 # PL0-Compiler
-Compiler for PL0 language written in C for Systems Software Project
+Compiler for PL0 language written in C for Systems Software Project Summer 2020
+
 Equipped with Virtual Machine, Lexical Analyzer, Parser and Code Generator
 
                                       HOW TO COMPILE:
